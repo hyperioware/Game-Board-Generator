@@ -9,4 +9,15 @@ class Board{
     this.name = settings.name;
     this.tiles = settings.tiles;
   }
+  updateTile(){
+  //TODO
+  }
+  
+  addTile(){
+  //TODO
+  }
+  
+  removeTile(){
+  //TODO 
+  }
 }
